@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{E6xs:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),l=a("Wbzz"),r=a("Bl7J"),i=a("vrFN");t.default=function(){return o.a.createElement(r.a,null,o.a.createElement(i.a,{title:"portfolio"}),o.a.createElement("h1",null,"Hey This is it, you ar at resume page"),o.a.createElement("p",null,"If you see this is worked"),o.a.createElement(l.Link,{to:"/"},"Go back to the homepage"))}}}]);
-//# sourceMappingURL=component---src-pages-portfolio-js-d1d5b150705298ff51e4.js.map
